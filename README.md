@@ -1,2 +1,2 @@
-# ozxstudio
-development for laravel-tailwindcss
+# OZXStudio
+# Symfony - Composer - NPM
