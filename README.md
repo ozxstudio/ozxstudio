@@ -1,2 +1,2 @@
-# OZXStudio
+# OZX Studio
 # Symfony - Composer - NPM
