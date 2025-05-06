@@ -1,4 +1,4 @@
-# OZX Studio 👾
+# OZX Studio 👾 DevLabs
 # Symfony - Composer - NPM
 #We are not just developers. We are the error logs of the multiverse.
 
