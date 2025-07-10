@@ -31,7 +31,7 @@ Custom Blogger-based e-commerce + payment system (QRIS, PayPal, BCA, etc.)
 
 ### 📬 Reach Me
 - 🌐 Website: [ozxstudio.com](https://ozxstudio.com) _(under development)_
-- 📩 Email: [ozxlabz@gmail.com](mailto:ozxlabz@gmail.com)
+- 📩 Email: [nolsenx@gmail.com](mailto:nolsenx@gmail.com)
 - 🧠 Facebook: [facebook.com/OZXLabs.Studio](https://facebook.com/OZXLabs.Studio)
 - 🛠️ Demo Site: [free-blogger-template-cepat.blogspot.com](https://free-blogger-template-cepat.blogspot.com/)
 
