@@ -1,6 +1,7 @@
 # OZX Studio 👾 DevLabs
 # Symfony - Composer - NPM
-#We are not just developers. We are the error logs of the multiverse.
+# CakePHP - Python - CPP 
+# We are not just developers. We are the error logs of the multiverse.
 
 # # OZXLABZ STUDIOS
 
