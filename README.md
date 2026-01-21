@@ -6,6 +6,7 @@
 # # OZXLABZ STUDIOS
 
 🎯 **Web & App Development | Blogger Themes | UI/UX & DevOps**
+
 🎯 **18 Core Intel Pentium 7 | OS Operating System for Linux Debian 13 Tricky [Trixie]
 
 ---
