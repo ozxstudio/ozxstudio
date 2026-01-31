@@ -1,6 +1,6 @@
 # # OZX Studio 👾 DevLabs
 # Symfony - Composer - NPM
-# CakePHP - [Flask -- Django] Python - CPP 
+# CakePHP - [Flask -- Django] Python - CPP / [JS Audio Context]
 ## We are not just developers. We are the error logs of the multiverse.
 
 # # OZXLABZ STUDIOS
