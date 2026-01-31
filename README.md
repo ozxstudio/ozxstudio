@@ -1,6 +1,6 @@
 # # OZX Studio 👾 DevLabs
 # Symfony - Composer - NPM
-# CakePHP - Python - CPP 
+# CakePHP - [FLASK -- DJANGO]Python - CPP 
 ## We are not just developers. We are the error logs of the multiverse.
 
 # # OZXLABZ STUDIOS
